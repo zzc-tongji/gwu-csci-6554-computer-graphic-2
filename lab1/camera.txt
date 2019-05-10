@@ -1,0 +1,7 @@
+C 80 20 80
+P_{ref} -20 20 0
+V' 0 1 0
+h 5
+d 10
+f 100
+remove_back_face 1
